@@ -1,0 +1,14 @@
+// Exemple de prompts
+const prompts = [
+    "Écris une histoire courte sur un chat détective",
+    "Imagine un futur où les IA gouvernent le monde",
+    "Crée une recette originale pour un dessert magique"
+];
+
+const display = document.getElementById("prompt-display");
+const button = document.getElementById("generate-btn");
+
+button.addEventListener("click", () => {
+    const randomPrompt = prompts[Math.floor(Math.random() * prompts.length)];
+    display.textContent = randomPrompt;
+});

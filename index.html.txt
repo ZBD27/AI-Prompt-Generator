@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Prompt Generator</title>
+    <!-- Si tu as un CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>AI Prompt Generator</h1>
+
+    <!-- Zone pour afficher les prompts -->
+    <div id="prompt-display"></div>
+
+    <!-- Bouton pour générer un prompt -->
+    <button id="generate-btn">Générer un prompt</button>
+
+    <!-- Ton script JS -->
+    <script src="script.js"></script>
+</body>
+</html>

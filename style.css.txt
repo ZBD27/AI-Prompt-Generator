@@ -1,0 +1,43 @@
+/* style.css */
+
+/* Style général de la page */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 50px;
+}
+
+/* Titre */
+h1 {
+    color: #333;
+}
+
+/* Bouton */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Zone d’affichage des prompts */
+#prompt-display {
+    margin-top: 30px;
+    font-size: 18px;
+    color: #555;
+    min-height: 50px; /* pour que la zone garde sa place même vide */
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: white;
+    border-radius: 5px;
+}
