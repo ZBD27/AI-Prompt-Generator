@@ -1,16 +1,16 @@
-# AI Prompt Generator 🚀
 
 AI Prompt Generator est un mini site web interactif permettant de générer instantanément des idées créatives dans différentes catégories telles que **Business**, **Création de contenu** et **Startups**.
 
 Le projet est conçu pour être simple, rapide et accessible, tout en étant entièrement fonctionnel **sans backend, sans serveur et sans base de données**.
 
-## ✨ Fonctionnalités
+- ## ✨ Fonctionnalités
 
 - Génération instantanée d’idées créatives
 - Choix de plusieurs catégories (Business, Contenu, Startups)
 - Interface simple, moderne et responsive
 - Fonctionnement 100 % frontend
 - Aucun compte requis
+  
 - ## 🛠️ Technologies utilisées
 
 - **HTML5**
@@ -19,7 +19,7 @@ Le projet est conçu pour être simple, rapide et accessible, tout en étant ent
 
 Aucune dépendance externe, aucun framework, aucun backend.
 
-## 🚀 Déploiement
+- ## 🚀 Déploiement
 
 Le site peut être hébergé gratuitement sur :
 - GitHub Pages
@@ -33,7 +33,7 @@ Le site peut être hébergé gratuitement sur :
 4. Choisir le dossier `/root`
 5. Sauvegarder
 
-## 🎯 Cas d’utilisation
+- ## 🎯 Cas d’utilisation
 
 - Outil d’inspiration rapide
 - Aide à la création de contenu
@@ -41,18 +41,18 @@ Le site peut être hébergé gratuitement sur :
 - Projet portfolio pour développeur débutant
 - Base pour un futur SaaS ou outil IA
 
-## 💡 Idées de monétisation
+- ## 💡 Idées de monétisation
 
 - Ajout de publicité (Google AdSense)
 - Version premium avec plus de catégories
 - Intégration d’une API IA (OpenAI, Claude, etc.)
 - Vente en tant que mini site clé en main
 
-## 📦 Projet clé en main
+- ## 📦 Projet clé en main
 
 AI Prompt Generator est un projet prêt à l’emploi, facilement personnalisable et idéal pour :
 
-## 📄 Licence
+- ## 📄 Licence
 
 Projet librement modifiable et personnalisable.
 
